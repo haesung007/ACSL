@@ -13,6 +13,8 @@ public class A0102_C1_JR_codejava {
 		
 		System.out.println((char)n+64);
 		
+		in.close();
+		
 	}
 
 }
